@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
+  "name": "steam-library-details",
+  "common_name": "Library Details",
+  "description": "Shows hours played, achievement completion, last played and size on disk next to each game in the library list",
+  "version": "0.1.0",
+  "backendType": "lua"
+}
